@@ -19,3 +19,11 @@
 
 * [Blockchain Development and Security](https://github.com/bt3gl-labs/Blockchain-Hacking-Toolkit)
 * [Blockchains, DeFi, AMMs, and MEV](https://github.com/bt3gl-labs/Blockchain-DeFi-and-MEV)
+
+<br>
+
+### Cryptography
+
+<br>
+
+* [Understanding Cryptography, by Christof Paar](https://github.com/lilith-security/COMPUTER-SCIENCE-REFS/blob/main/Understanding%20Cryptography%20by%20Christof%20Paar%20.pdf)
