@@ -27,4 +27,4 @@
 <br>
 
 * [Understanding Cryptography, by Christof Paar](https://github.com/lilith-security/COMPUTER-SCIENCE-REFS/blob/main/Understanding%20Cryptography%20by%20Christof%20Paar%20.pdf)
-* [A graduate course on cryptography, by D. Boyle](https://toc.cryptobook.us/)
+* [A graduate course on cryptography, by D. Boneh](https://toc.cryptobook.us/)
