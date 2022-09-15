@@ -31,6 +31,16 @@
 
 <br>
 
+
+### Tokenomics
+
+<br>
+
+* [Economics and Math of Token Engineering](https://github.com/lilith-security/COMPUTER-SCIENCE-REFS/blob/main/Economics-and-Math-of-Token-Engineering-and-DeFi.epub)
+
+
+<br>
+
 ### Newsletters
 
 <br>
