@@ -2,6 +2,12 @@
 
 <br>
 
+### Algorithms
+
+* [Algorithms by Sanjoy Dasgupta]()
+
+<br>
+
 ### Computer science books
 
 <br>
